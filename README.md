@@ -1,3 +1,15 @@
+# Folder structure
+
+```
+exercises
+    |_ exercise1-defining-success-metrics
+    |   |_ solution
+    |   |   |_ solution_files
+    |_ exercise1-fairness-evaluation-report
+    |   |_ solution
+    |   |   |_ solution_files
+    |_ README.md
+```
 
 ## Exercise 1: Defining Success Metrics
 
