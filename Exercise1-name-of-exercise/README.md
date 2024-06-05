@@ -1,22 +1,15 @@
-# Purpose of This Directory
+## Exercise 1: Defining Success Metrics
 
-This directory should contain any files and instructions necessary for exercises created for this lesson.
+### Objective
+Define, measure, and monitor success metrics for the Mango Oasis app to ensure accurate, helpful, and unbiased responses.
 
-## Folder Structure
+### Steps
+1. Review the app and its goals.
+2. Identify metrics
+3. Set benchmarks for each metric.
+4. Document measurement methods and targets.
+5. Develop a strategy for continuous monitoring.
 
-Each exercise should be contained in its own folder using the naming convention of `concept#-name-of-concept`. See example below:
-
-```
-exercises
-    |_ concept1-hello-world
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ concept2-foo-bar
-    |   |_ starter
-    |   |   |_ exercise-files
-    |   |_ solution
-    |   |   |_ solution_files
-    |_ README.md
-```
+### Deliverables
+- Plan document
+- Monitoring scripts/tools
