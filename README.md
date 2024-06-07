@@ -1,4 +1,8 @@
-# Folder structure
+# Udacity AI Product Manager Nano Degree Exercises
+
+Welcome to the repository for the Udacity AI Product Manager Nano Degree exercises. This repository contains the necessary files and instructions for completing the exercises in this course.
+
+## Folder structure
 
 ```
 exercises
@@ -73,6 +77,8 @@ Analyze the results from a pre-run Fairness Evaluation Notebook and create a rep
 
 - A detailed fairness evaluation report summarizing the key findings, insights, and recommendations for bias mitigation.
 - Supporting visualizations that enhance the report's clarity and impact.
+
+**Note:** The fairness evaluation notebook is pre-run, and you do not need to execute any code. Focus on reviewing the report and extracting key insights from the analysis.
 
 ## Submission Guidelines
 
