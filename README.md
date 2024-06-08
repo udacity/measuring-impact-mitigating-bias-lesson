@@ -45,8 +45,11 @@ Develop a comprehensive plan to define, measure, and monitor success metrics for
 
 ### Deliverables
 
+- Your findings
 - A comprehensive report detailing the defined success metrics, measurement methods, and monitoring strategies.
-- Supporting code and data files used for calculating the metrics.
+  
+**Note:** You do not need to run the code provided in the solution files. Your task is to review the generated report and understand the key findings and methodologies used.
+
 
 ## Exercise 2: Fairness Evaluation Report
 
