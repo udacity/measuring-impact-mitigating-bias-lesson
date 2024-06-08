@@ -1,5 +1,3 @@
-
-[![LinkedIn][linkedin-shield]][linkedin-url]
 [![Youtube][youtube-shield]][youtube-url]
 [![Udacity][udacity-shield]][udacity-url]
 
