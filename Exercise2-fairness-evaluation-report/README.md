@@ -1,4 +1,3 @@
-[![Youtube][youtube-shield]][youtube-url]
 [![Udacity][udacity-shield]][udacity-url]
 
 # Fairness Evaluation Exercise
