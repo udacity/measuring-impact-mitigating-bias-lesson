@@ -42,3 +42,9 @@ This script evaluates Large Language Model (LLM) responses for:
 - Assumes your dataset has columns: `user_query` and `chatbot_response`.
 - The example plot is for answer relevance; similar visualizations can be created for other metrics.
 - For deeper analysis, refer to the individual dataframes.
+
+
+## License
+
+Distributed under the Apache License. See [LICENSE](https://github.com/ByteanAtomResearch/ai-product-course-fer/blob/main/LICENSE)  for more information.
+Copyright (c) 2024 Noble Ackerson
