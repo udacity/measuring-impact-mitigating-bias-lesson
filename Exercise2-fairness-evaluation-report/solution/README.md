@@ -1,6 +1,7 @@
-# RAG System Performance Evaluation
+# LLM Fairness Evaluation Exercise - Mango Oasis Chatbot
 
 [![Libraries Used](https://img.shields.io/badge/libraries-RAGAS%20%7C%20DeepEval-blue)](https://github.com/explodinggradients/ragas,https://github.com/deep-eval/deepeval)
+[![Run in Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/your-repo/blob/master/your-notebook-name.ipynb)
 
 This project evaluates the performance of a Retrieval-Augmented Generation (RAG) system by calculating various metrics such as Faithfulness, Answer Relevance, and Geographical Bias. The evaluations use the RAGAS and DeepEval libraries, with results visualized and summarized for easy reporting.
 
