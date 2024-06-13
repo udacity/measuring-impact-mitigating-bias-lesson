@@ -31,11 +31,6 @@ However, to run this locally, be sure you:
 
 
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
 [linkedin-url]: https://linkedin.com/in/noblea
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [youtube-url]: https://youtube.com/c/nobleackerson
