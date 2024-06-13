@@ -88,3 +88,7 @@ Analyze the results from a pre-run Fairness Evaluation Notebook and create a rep
 - Submit your completed exercises through the designated submission platform.
 
 ---
+
+# License
+
+The contents of this repository are covered under [Udacity License Terms](./LICENSE)
