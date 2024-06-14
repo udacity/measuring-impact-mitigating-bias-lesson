@@ -1,4 +1,4 @@
-# Udacity AI Product Manager Nano Degree Exercises
+# Udacity AI Product Manager Nanodegree Exercises
 
 Welcome to the repository for the Udacity AI Product Manager Nano Degree exercises. This repository contains the necessary files and instructions for completing the exercises in this course.
 
