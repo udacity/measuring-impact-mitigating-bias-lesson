@@ -7,6 +7,8 @@ Welcome to the repository for the Udacity AI Product Manager Nano Degree exercis
 ```
 exercises
     |_ exercise1-defining-success-metrics
+    |   |_ starter
+    |   |   |_ starter_files
     |   |_ solution
     |   |   |_ solution_files
     |_ exercise1-fairness-evaluation-report
